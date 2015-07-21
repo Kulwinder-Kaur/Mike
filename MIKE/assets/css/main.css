@@ -1,0 +1,35 @@
+md-toolbar.md-default-theme 
+{
+	background-color:#367588;
+	color:white;
+}
+
+.md-toolbar-tools h1 
+{
+  font-size: inherit;
+  font-weight: inherit;
+  margin: inherit;
+}
+
+.logo
+{
+	height:70%;
+	width: 4%;
+	margin-right: 1.2%;	
+}
+
+.u_name
+{
+	margin-left: 50%;	
+	color: black;
+}
+
+.fab-mini
+{
+	background-color: white;
+	color:white;
+}
+
+
+
+
